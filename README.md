@@ -29,9 +29,6 @@ Our AI assistant is well-versed in:
 <div align="center">
     <img src="static/images/image.png" alt="HR Assistant Chat Interface" width="600"/>
     <p><em>Modern chat interface with quick reply options</em></p>
-    
-    <img src="static/images/image-1.png" alt="HR Assistant Response Example" width="600"/>
-    <p><em>Professional responses with detailed information</em></p>
 </div>
 
 ## 🚀 Quick Start Guide
